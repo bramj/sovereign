@@ -10,13 +10,13 @@
     - common
     - mailserver
     - webmail
-    - blog
-    - ircbouncer
+    # - blog
+    # - ircbouncer
     - xmpp
     - owncloud
-    - vpn
+    # - vpn
     - tarsnap
     - news
-    - git
+    # - git
     - readlater
     - monitoring  # Monitoring role should be last. See roles/monitoring/README.md
